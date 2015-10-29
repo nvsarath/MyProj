@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/java-json.jar/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/hazelcast-3.5.3/hazelcast-3.5.3/lib/hazelcast-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/hazelcast-3.5.3/hazelcast-3.5.3/lib/hazelcast-all-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/hazelcast-3.5.3/hazelcast-3.5.3/lib/hazelcast-client-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/hazelcast-3.5.3/hazelcast-3.5.3/lib/hazelcast-client-new-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/hazelcast-3.5.3/hazelcast-3.5.3/lib/hazelcast-cloud-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/hazelcast-3.5.3/hazelcast-3.5.3/lib/hazelcast-hibernate3-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/hazelcast-3.5.3/hazelcast-3.5.3/lib/hazelcast-hibernate4-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/hazelcast-3.5.3/hazelcast-3.5.3/lib/hazelcast-jca-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/hazelcast-3.5.3/hazelcast-3.5.3/lib/hazelcast-spring-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/hazelcast-3.5.3/hazelcast-3.5.3/lib/hazelcast-wm-3.5.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

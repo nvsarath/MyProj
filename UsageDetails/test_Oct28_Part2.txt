@@ -1,0 +1,7 @@
+100,41,twitter.com
+101,26,yahoo.com
+100,3,facebook.com
+101,10,yahoo.com
+102,5,yahoo.com
+100,89,smartprix.com
+
